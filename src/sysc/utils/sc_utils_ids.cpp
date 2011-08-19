@@ -58,6 +58,10 @@
 // the source.
 //
 
+#include <cstdlib>
+#include <cstring>
+using namespace std;
+
 #include "sysc/utils/sc_report.h"
 
 
