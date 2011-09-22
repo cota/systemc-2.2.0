@@ -1,0 +1,8 @@
+*.o
+*.a
+Makefile
+config.log
+config.status
+src/sysc/qt/configuration
+src/sysc/qt/qtmdc.c
+src/sysc/qt/qtmds.s
